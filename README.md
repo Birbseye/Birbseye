@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Birbseye
+- 👋 Hi, I’m Csaba Miskó
 - 👀 I’m interested in Junior jobs.
 - 🌱 I’m currently learning Java and Angular.
 - 📫 How to reach me: csabamisko@gmail.com
