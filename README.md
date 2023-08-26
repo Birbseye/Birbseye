@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Csaba Miskó
-- 👀 I’m interested in Junior jobs.
-- 🌱 I’m currently learning Java and Angular.
+- 🌱 I’m currently teaching Java and Angular for newbies at PROGmasters.
 - 📫 How to reach me: csabamisko@gmail.com
 
 <!---
