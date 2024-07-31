@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Csaba Miskó
-- 👨🏻‍🏫 I’m currently teaching Java and Angular for newbies at PROGmasters.
+- 👨🏻‍💻 I’m currently working at Uniqua Raifeissen Software Services Kft. as a Java Developer
 - 📫 How to reach me: csabamisko@gmail.com
 
 <!---
